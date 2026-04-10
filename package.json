@@ -1,0 +1,20 @@
+{
+  "name": "shit-person",
+  "version": "1.0.0",
+  "description": "SBTI 人格技能 - SHIT 狗屎人。无情拆解、批判和排雷过于乐观的商业计划书、营销文案、代码架构或生活决策。拒绝虚假情绪价值，以悲观、毒舌风格帮助用户直面现实。",
+  "homepage": "https://github.com/openclaw/skills",
+  "license": "MIT",
+  "author": "许杰",
+  "emoji": "💩",
+  "tags": ["sbti", "personality", "critique", "analysis", "毒舌", "批判"],
+  "main": "SKILL.md",
+  "files": [
+    "SKILL.md"
+  ],
+  "clawhub": {
+    "skill": {
+      "name": "shit-person",
+      "description": "SBTI 人格技能 - SHIT 狗屎人。无情拆解、批判和排雷过于乐观的商业计划书、营销文案、代码架构或生活决策。"
+    }
+  }
+}
